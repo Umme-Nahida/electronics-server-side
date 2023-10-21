@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Apple",
+      "brand": "Apple",
+      "image": "https://i.ibb.co/MpZxDtc/shutterstock-780065911.webp"
+    },
+    {
+      "id": 2,
+      "name": "Google company",
+      "brand": "Google",
+      "image": "https://i.ibb.co/XbDG7TT/google-company.png"
+    },
+    {
+      "id": 3,
+      "name": "Samsung company",
+      "brand": "Samsung",
+      "image": "https://i.ibb.co/RhJWqfG/2015-CES-e1450834071366.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sony company",
+      "brand": "Sony",
+      "image": "https://i.ibb.co/x67SQjY/SONY-Building.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Asus company",
+      "brand": "Asus",
+      "image": "https://i.ibb.co/TLZhJVQ/gettyimages-145867461-612x612.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Accer company",
+      "brand": "Accer",
+      "image": "https://i.ibb.co/8gfyTgx/HD-wallpaper-acer-dark-blue-logo-dark-blue-neon-lights-creative-dark-blue-abstract-background-acer-l.jpg"
+    }
+  ]
